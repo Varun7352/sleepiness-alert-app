@@ -1,0 +1,14 @@
+{
+  "name": "sleepiness-alert-app",
+  "version": "1.0.0",
+  "description": "A desktop timer app that alerts when sleepy",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.3.1"
+  }
+}
